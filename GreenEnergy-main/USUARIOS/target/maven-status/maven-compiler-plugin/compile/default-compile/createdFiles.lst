@@ -1,0 +1,12 @@
+com\example\USUARIOS\service\RolesService.class
+com\example\USUARIOS\UsuariosApplication.class
+com\example\USUARIOS\config\LoadDataConfig.class
+com\example\USUARIOS\controller\RolesController.class
+com\example\USUARIOS\controller\UsuariosController.class
+com\example\USUARIOS\config\SecurityConfig.class
+com\example\USUARIOS\WebClient\DireccionesClient.class
+com\example\USUARIOS\model\Usuarios.class
+com\example\USUARIOS\repository\UsuariosRepository.class
+com\example\USUARIOS\model\Roles.class
+com\example\USUARIOS\repository\RolesRepository.class
+com\example\USUARIOS\service\UsuariosService.class
